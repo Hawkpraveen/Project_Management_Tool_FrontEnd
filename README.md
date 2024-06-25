@@ -74,7 +74,7 @@ URL - https://project-management-tool-mern.netlify.app/dashboard?tab=profile
 
 ### Tech Stack
 
-### + FRONTEND LIBRARIES
+### FRONTEND LIBRARIES
   - React JS
   - Tailwind
   - FlowBite 
@@ -86,14 +86,14 @@ URL - https://project-management-tool-mern.netlify.app/dashboard?tab=profile
   - React Big Calendar
   - jsPDF
   - 
-###  +FRONTEND PACKAGES
+###  FRONTEND PACKAGES
   - Axios
   - File Saver
   - React Circular Progressbar
   - React CSV
   - React Toastify
   - 
-### + BACKEND PACKAGES
+###  BACKEND PACKAGES
   - bcryptjs
   - Express
   - Mongoose
