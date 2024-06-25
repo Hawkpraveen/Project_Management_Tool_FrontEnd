@@ -71,3 +71,31 @@ URL - https://project-management-tool-mern.netlify.app/dashboard?tab=tasklists
 
 ### ➡️ Profile Page
 URL - https://project-management-tool-mern.netlify.app/dashboard?tab=profile
+
+### Tech Stack
+
+### + FRONTEND LIBRARIES
+  - React JS
+  - Tailwind
+  - FlowBite 
+  - Ant Design
+  - React-router-dom
+  - Redux
+  - Firebase
+  - React Beautiful DnD
+  - React Big Calendar
+  - jsPDF
+  - 
+### + FRONTEND PACKAGES
+  - Axios
+  - File Saver
+  - React Circular Progressbar
+  - React CSV
+  - React Toastify
+  - 
+### + BACKEND PACKAGES
+  - bcryptjs
+  - Express
+  - Mongoose
+  - Cors
+  - JWT
