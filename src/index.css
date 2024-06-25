@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.screen-height {
+  min-height: 68vh;
+}
+
+.fade-in-text {
+  animation: fadeInAnimation ease 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.fade-in-text-1 {
+  animation: fadeInAnimation ease 5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+.fade-in-text-home {
+  animation-iteration-count: 1;
+  animation: fadeInAnimation ease 3s;
+}
+.fade-in-text-button {
+  animation: fadeInAnimation ease 4s;
+  animation-iteration-count: 1;
+  animation-fill-mode: reverse;
+  animation-timing-function: linear;
+}
+.fade-in-text-button:hover {
+  transform: scale(1.3);
+}
+.plus-button {
+  font-size: 32px;
+}
+.text-dashed {
+  text-decoration: line-through;
+}
+
+.ant-input {
+  background-color: inherit;
+  border-radius: 20px !important;
+  color: gray !important;
+  padding: 10px;
+  font-size: 17px !important;
+  font-weight: 400;
+  border-color: rgb(39, 39, 36) !important;
+  border: 2px solid;
+}
+.ant-input:hover,
+.ant-input:focus,
+.ant-input:active {
+  background-color: inherit;
+  color: inherit;
+}
+
+.ant-input-group-addon{     
+    color: white !important;
+    font-size: 16px;
+}
+::placeholder {
+  color:gray !important;
+}
+.ant-input-search-button {
+  margin-left: 10px;
+  border-radius: 20px !important;
+  height: 40px !important;
+}
+.ant-table-wrapper {
+  background-color: inherit !important;
+}
+
+.ant-table-column-title {
+  color: white;
+}
+.ant-table-column-sorter,
+.ant-table-column-sorter-full {
+  color: white !important;
+}
+.ant-table-cell {
+  background-color: rgb(37, 37, 74) !important;
+  color: white !important;
+  font-size: 16px;
+}
+.anticon-filter {
+  color: whitesmoke !important;
+}
+.ant-pagination-item-link{
+  color: gray !important;
+}
+.ant-empty-description{
+  color: whitesmoke !important;
+}
+.img-hover:hover {
+  transform: scale(1.3);
+}
+.rbc-toolbar {
+  background-color: inherit;
+  color: inherit;
+}
+.rbc-toolbar button {
+  color: inherit !important;
+  font-size: 17px !important;
+  border-radius: 7px !important;
+  margin-right: 7px !important;
+}
+
+.rbc-toolbar button:hover {
+  background-color: rgb(127, 121, 121);
+  color: black !important;
+}
+.rbc-toolbar-label {
+  font-size: large !important;
+  padding: 5px !important;
+  font-weight: 500;
+}
+.rbc-off-range-bg {
+  background-color: inherit !important;
+}
+.rbc-button-link {
+  color: rgb(7, 112, 77);
+}
+button.rbc-active {
+  background-color: rgb(127, 121, 121) !important;
+  color: brown;
+}
+.rbc-events-container {
+  background-color: inherit !important;
+}
+.rbc-day-slot .rbc-events-container {
+  background-color: inherit !important;
+}
+.rbc-today {
+  background-color: rgb(236, 227, 227);
+}
+.rbc-event:hover {
+  transform: scale(1.3);
+  width: max-content;
+}
+.rbc-event {
+  width: fit-content;
+  justify-content: center;
+  margin: auto;
+}
+.notification-model {
+  background-color: rgb(13, 0, 60) !important;
+  color: whitesmoke !important;
+}
+.edit-task-modal{
+    background-color: rgb(13, 0, 60) !important;
+    color: whitesmoke !important;
+}
