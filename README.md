@@ -86,7 +86,7 @@ URL - https://project-management-tool-mern.netlify.app/dashboard?tab=profile
   - React Big Calendar
   - jsPDF
   - 
-### + FRONTEND PACKAGES
+###  +FRONTEND PACKAGES
   - Axios
   - File Saver
   - React Circular Progressbar
