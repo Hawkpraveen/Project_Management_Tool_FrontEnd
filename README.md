@@ -102,8 +102,8 @@ URL - https://project-management-tool-mern.netlify.app/dashboard?tab=profile
     
 ## Screen Shots
 
-[Screenshot 2024-06-25 215301](https://github.com/Hawkpraveen/Project_Management_Tool_FrontEnd/assets/100344836/7507fea0-132d-4cf7-9f37-645a0d91ac3a)
-./public/logo.png
+[Home Page](https://github.com/Hawkpraveen/Project_Management_Tool_FrontEnd/assets/100344836/7507fea0-132d-4cf7-9f37-645a0d91ac3a)
+
 
 
 
